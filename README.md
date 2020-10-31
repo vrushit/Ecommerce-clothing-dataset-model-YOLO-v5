@@ -1,0 +1,1 @@
+For starting the project first install all the libraries
