@@ -1,0 +1,6 @@
+train: ../clothing/images/train/
+val: ../clothing/images/val/
+
+nc: 9
+
+names: ['Jackets', 'Jeans', 'Shirts', 'Shoes', 'Skirts', 'Tops', 'Trousers', 'Tshirts', 'sunglasses']
